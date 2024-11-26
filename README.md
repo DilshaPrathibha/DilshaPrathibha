@@ -44,11 +44,11 @@
 <h2 align="center" style="color: #fff;">📊 GitHub Stats</h2>
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=DilshaPrathibha&theme=highcontrast&show_icons=true&count_private=true" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DilshaPrathibha&theme=highcontrast" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=DilshaPrathibha&theme=highcontrast&show_icons=true&count_private=true" alt="GitHub Stats" style="width: auto;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DilshaPrathibha&theme=highcontrast" alt="GitHub Streak" style="width: auto;" />
   </div>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilshaPrathibha&theme=highcontrast&layout=compact" alt="Top Languages" />
+  <div align="center" style="width: 100%; text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilshaPrathibha&theme=highcontrast&layout=compact" alt="Top Languages" style="width: auto;" />
   </div>
 </p>
 
