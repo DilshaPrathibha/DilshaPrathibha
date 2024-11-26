@@ -7,21 +7,10 @@
 
 ---
 
-<!--
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=DilshaPrathibha&icon=0&color=12" alt="Profile Views" />
-</p>
-
-### 📬 How to Reach Me:
-- 📧 **Email:** [dilshaprathibha@gmail.com](mailto:dilshaprathibha@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/dilshaprathibha](https://linkedin.com/in/dilshaprathibha)
----
--->
-
+ <br>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=DilshaPrathibha&label=Profile%20views&color=1b7ef7&style=flat" alt="Profile Views" />
 </p>
-
 
 <h2 align="center">🌐 Let's Connect</h2>
 <p align="center">
@@ -34,6 +23,7 @@
 
 ---
 
+<br>
 <h2 align="center">🛠️ Skills & Tools</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,python,c,cpp,git,heroku,gcp" alt="Skills" />
@@ -41,20 +31,39 @@
 
 ---
 
+<br>
 <h2 align="center" style="color: #fff;">📊 GitHub Stats</h2>
+
+<!-- Desktop View Layout -->
+<table align="center" class="desktop-view">
+  <tr border="none">
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=DilshaPrathibha&theme=highcontrast&show_icons=true&count_private=true" alt="GitHub Stats" style="width: auto;" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=DilshaPrathibha&theme=highcontrast" alt="GitHub Streak" style="width: auto;" />
+    </td>
+  </tr>
+</table>
+
+<br>
 <p align="center">
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=DilshaPrathibha&theme=highcontrast&show_icons=true&count_private=true" alt="GitHub Stats" style="width: auto;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DilshaPrathibha&theme=highcontrast" alt="GitHub Streak" style="width: auto;" />
-  </div>
-  <div align="center" style="width: 100%; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilshaPrathibha&theme=highcontrast&layout=compact" alt="Top Languages" style="width: auto;" />
-  </div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilshaprathibha&theme=react-dark" alt="Contribution Graph" style="width: auto; max-width: 100%;" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilshaPrathibha&theme=highcontrast&layout=compact" alt="Top Languages" style="width: auto; max-width: 100%;" />
+</p>
+
+
+
+<!--
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=DilshaPrathibha&icon=0&color=12" alt="Profile Views" />
+</p>
+
+### 📬 How to Reach Me:
+- 📧 **Email:** [dilshaprathibha@gmail.com](mailto:dilshaprathibha@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/dilshaprathibha](https://linkedin.com/in/dilshaprathibha)
 ---
-
-<h2 align="center">📈 Contribution Graph</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilshaprathibha&theme=react-dark" alt="Contribution Graph" />
-</p>
+-->
