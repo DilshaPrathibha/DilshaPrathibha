@@ -21,7 +21,6 @@
   <a href="https://twitter.com/dilshaprathibha" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
----
 
 <br>
 <h2 align="center">🛠️ Skills & Tools</h2>
@@ -29,7 +28,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,python,c,cpp,git,heroku,gcp" alt="Skills" />
 </p>
 
----
 
 <br>
 <h2 align="center" style="color: #fff;">📊 GitHub Stats</h2>
@@ -55,15 +53,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilshaPrathibha&theme=highcontrast&layout=compact" alt="Top Languages" style="width: auto; max-width: 100%;" />
 </p>
 
-
-
-<!--
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=DilshaPrathibha&icon=0&color=12" alt="Profile Views" />
-</p>
-
-### 📬 How to Reach Me:
-- 📧 **Email:** [dilshaprathibha@gmail.com](mailto:dilshaprathibha@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/dilshaprathibha](https://linkedin.com/in/dilshaprathibha)
----
--->
